@@ -622,7 +622,11 @@ packages:
       '@jridgewell/resolve-uri': 3.1.1
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
- 
+
+'/@movie-web/providers@https://codeload.github.com/sussy-code/providers/tar.gz/e62c98ba05db4fbdc61c519ea07921c82e9f3641':
+    resolution: {tarball: https://codeload.github.com/sussy-code/providers/tar.gz/e62c98ba05db4fbdc61c519ea07921c82e9f3641}
+    version: 2.3.0
+    
   '/@movie-web/providers@https://codeload.github.com/sussy-code/providers/tar.gz/e62c98ba05db4fbdc61c519ea07921c82e9f3641':
     dependencies:
       cheerio: 1.0.0-rc.12
